@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### 
+<div  align="center">Hi there 👋
+  <br /><br />
+<img width="100" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" /> </div>
 <!--
 **Leriadev/Leriadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
