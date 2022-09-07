@@ -1,5 +1,5 @@
 ### 
-<div  align="center">Hi there 👋
+<div  align="center">Success is the ability to go from one failure to another with no loss of enthusiasm
   <br /><br />
 <img width="100" src="https://media.giphy.com/media/KRfBgRKoKuXno1Sb4D/giphy.gif" /> </div>
 <!--
